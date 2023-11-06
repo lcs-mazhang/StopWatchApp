@@ -11,6 +11,7 @@
 		DF36F3922AF5312300E7CFAC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF36F3912AF5312300E7CFAC /* ContentView.swift */; };
 		DF36F3942AF5312600E7CFAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF36F3932AF5312600E7CFAC /* Assets.xcassets */; };
 		DF36F3972AF5312600E7CFAC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF36F3962AF5312600E7CFAC /* Preview Assets.xcassets */; };
+		DF7522062AF90A6300244D9A /* CircleButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF7522052AF90A6300244D9A /* CircleButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		DF36F3912AF5312300E7CFAC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DF36F3932AF5312600E7CFAC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DF36F3962AF5312600E7CFAC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DF7522052AF90A6300244D9A /* CircleButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				DF36F3912AF5312300E7CFAC /* ContentView.swift */,
 				DF36F3932AF5312600E7CFAC /* Assets.xcassets */,
 				DF36F3952AF5312600E7CFAC /* Preview Content */,
+				DF7522052AF90A6300244D9A /* CircleButtonView.swift */,
 			);
 			path = StopWatch;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF7522062AF90A6300244D9A /* CircleButtonView.swift in Sources */,
 				DF36F3922AF5312300E7CFAC /* ContentView.swift in Sources */,
 				DF36F3902AF5312300E7CFAC /* StopWatchApp.swift in Sources */,
 			);
