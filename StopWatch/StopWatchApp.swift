@@ -38,7 +38,9 @@ struct StopWatchApp: App {
                 
             }
             // current tab color
-            
+            .accentColor(.orange)
+            // Ensure tab items that are not active reamin visible
+            .preferredColorScheme(.dark)
         }
     }
 }
