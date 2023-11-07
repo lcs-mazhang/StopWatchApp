@@ -37,7 +37,7 @@ struct CircleButtonView: View {
                 .foregroundColor(buttonColor)
                 .frame(width:89)
             
-            // Fourth layer
+            // from button 4 layer
             Text(label)
                 .foregroundColor(labelColor)
                 .font(.title2)
